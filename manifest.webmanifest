@@ -1,0 +1,19 @@
+{
+  "name": "ROOT//PANIC：午夜告警",
+  "short_name": "ROOT//PANIC",
+  "description": "近未来事故响应 Roguelite 游戏",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#040908",
+  "theme_color": "#07100f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
